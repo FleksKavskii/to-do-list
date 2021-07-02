@@ -1,0 +1,12 @@
+.header{
+    background: url('../img/back.jpg') no-repeat;
+    background-size: auto;
+    height: 450px;
+    border-bottom: gray 1px solid;
+}
+.to-do-header{
+    padding-top: 400px;
+    margin-left: 20px;
+    font-size: 30px;
+
+}

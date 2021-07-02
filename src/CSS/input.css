@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.input{
+    font-size: 18px;
+    border-bottom: gray 1px solid;
+    display: flex;
+    height: 60px;
+    background-color: white;
+    width: 100%;
+}
+.text-input{
+    padding-left: 15px;
+    padding-top: 18px;
+}
+.input-all{
+    margin: 0 auto;
+}
